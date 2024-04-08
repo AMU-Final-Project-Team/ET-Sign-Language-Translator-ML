@@ -1,4 +1,4 @@
-# Ethiopian Sign Language to Amharic text Translator (ML)
+# Ethiopian Sign Language to Amharic text Translator (LSTM neural network)
 
 This repository contains a project for developing a translator system that converts Ethiopian Sign Language gestures into Amharic text. The system is built using Long Short-Term Memory (LSTM) neural networks implemented in TensorFlow and Keras. The project also includes sample data for training and testing the model, as well as pre-trained models in both .h5 and .tflite formats.
 
